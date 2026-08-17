@@ -43,20 +43,6 @@
       "영상URL": "https://instagram.com/p/Dbr9jEYynrO/"
     },
     {
-      "Instagram ID": "_kiki_mom",
-      "조회수": 1624660,
-      "조회수_한국어": "162만",
-      "날짜": "2026-08-02",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dbi4VWXPaej.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dbi4VWXPaej/"
-    },
-    {
       "Instagram ID": "5452__home",
       "조회수": 1324029,
       "조회수_한국어": "132만",
@@ -125,20 +111,6 @@
         }
       ],
       "영상URL": "https://instagram.com/p/DbxqlMIpY_W/"
-    },
-    {
-      "Instagram ID": "readwrite_grow",
-      "조회수": 779537,
-      "조회수_한국어": "77만",
-      "날짜": "2026-08-02",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DbiOiqEv9zc.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/DbiOiqEv9zc/"
     },
     {
       "Instagram ID": "choiness__",
@@ -211,20 +183,6 @@
       "영상URL": "https://instagram.com/p/DbqPanoP9i4/"
     },
     {
-      "Instagram ID": "song_rina",
-      "조회수": 596177,
-      "조회수_한국어": "59만",
-      "날짜": "2026-08-02",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DbhtBbRzkQP.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/DbhtBbRzkQP/"
-    },
-    {
       "Instagram ID": "daegumuk_",
       "조회수": 561422,
       "조회수_한국어": "56만",
@@ -253,6 +211,20 @@
       "영상URL": "https://instagram.com/p/DbxalWpTahS/"
     },
     {
+      "Instagram ID": "readwrite_grow",
+      "조회수": 537901,
+      "조회수_한국어": "53만",
+      "날짜": "2026-08-06",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "/assets/thumbnails/DbsrmFxPDDE.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DbsrmFxPDDE/"
+    },
+    {
       "Instagram ID": "800dossi",
       "조회수": 497927,
       "조회수_한국어": "49만",
@@ -267,21 +239,49 @@
       "영상URL": "https://instagram.com/p/DbnHIjPJNHe/"
     },
     {
-      "Instagram ID": "d_och_",
-      "조회수": 469846,
-      "조회수_한국어": "46만",
-      "날짜": "2026-08-02",
+      "Instagram ID": "ssom95",
+      "조회수": 447205,
+      "조회수_한국어": "44만",
+      "날짜": "2026-08-09",
       "카테고리": "",
       "캡션": "",
       "썸네일": [
         {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dbhs4NwTPF4.jpg"
+          "url": "/assets/thumbnails/Db0YPt3PBoL.jpg"
         }
       ],
-      "영상URL": "https://instagram.com/p/Dbhs4NwTPF4/"
+      "영상URL": "https://instagram.com/p/Db0YPt3PBoL/"
+    },
+    {
+      "Instagram ID": "2wins_bubu",
+      "조회수": 406566,
+      "조회수_한국어": "40만",
+      "날짜": "2026-08-03",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "/assets/thumbnails/DbmLaeYylBh.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DbmLaeYylBh/"
+    },
+    {
+      "Instagram ID": "simmydotk",
+      "조회수": 383901,
+      "조회수_한국어": "38만",
+      "날짜": "2026-08-04",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "/assets/thumbnails/DbneB_MhRv0.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DbneB_MhRv0/"
     }
   ],
-  "lastUpdated": "2026-08-16T00:48:21.685Z",
-  "weekStart": "2026-08-02",
-  "generatedAt": "2026-08-16T00:48:21.685Z"
+  "lastUpdated": "2026-08-17T00:45:01.800Z",
+  "weekStart": "2026-08-03",
+  "generatedAt": "2026-08-17T00:45:01.800Z"
 }
