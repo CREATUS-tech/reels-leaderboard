@@ -71,20 +71,6 @@
       "영상URL": "https://instagram.com/p/DeBje2hOKiC/"
     },
     {
-      "Instagram ID": "joozx12",
-      "조회수": 1878017,
-      "조회수_한국어": "187만",
-      "날짜": "2026-09-29",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd2x-RtyWlZ.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd2x-RtyWlZ/"
-    },
-    {
       "Instagram ID": "warmbbu",
       "조회수": 1822310,
       "조회수_한국어": "182만",
@@ -239,20 +225,6 @@
       "영상URL": "https://instagram.com/p/DeKyvNCzcTk/"
     },
     {
-      "Instagram ID": "2dandul",
-      "조회수": 976312,
-      "조회수_한국어": "97만",
-      "날짜": "2026-09-29",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd3wB0bTqgW.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd3wB0bTqgW/"
-    },
-    {
       "Instagram ID": "readwrite_grow",
       "조회수": 967620,
       "조회수_한국어": "96만",
@@ -279,9 +251,37 @@
         }
       ],
       "영상URL": "https://instagram.com/p/Dd-cWDPzdth/"
+    },
+    {
+      "Instagram ID": "wiz_home_",
+      "조회수": 898392,
+      "조회수_한국어": "89만",
+      "날짜": "2026-09-30",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd6R_1jT4z7.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/Dd6R_1jT4z7/"
+    },
+    {
+      "Instagram ID": "gyong_motd",
+      "조회수": 897154,
+      "조회수_한국어": "89만",
+      "날짜": "2026-10-09",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DeRh1jGqmHo.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeRh1jGqmHo/"
     }
   ],
-  "lastUpdated": "2026-10-13T04:45:57.354Z",
-  "weekStart": "2026-09-29",
-  "generatedAt": "2026-10-13T04:45:57.354Z"
+  "lastUpdated": "2026-10-14T02:54:07.865Z",
+  "weekStart": "2026-09-30",
+  "generatedAt": "2026-10-14T02:54:07.865Z"
 }
