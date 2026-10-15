@@ -141,20 +141,6 @@
       "영상URL": "https://instagram.com/p/DeF48c9N4ny/"
     },
     {
-      "Instagram ID": "itstohyun",
-      "조회수": 1155540,
-      "조회수_한국어": "115만",
-      "날짜": "2026-09-30",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd5pwBmRqhS.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd5pwBmRqhS/"
-    },
-    {
       "Instagram ID": "lastdream_hope",
       "조회수": 1136238,
       "조회수_한국어": "113만",
@@ -195,20 +181,6 @@
         }
       ],
       "영상URL": "https://instagram.com/p/DeN9VMloVaX/"
-    },
-    {
-      "Instagram ID": "osaka_sunsal",
-      "조회수": 1038968,
-      "조회수_한국어": "103만",
-      "날짜": "2026-09-30",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd6xAXDSkjk.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd6xAXDSkjk/"
     },
     {
       "Instagram ID": "cam_ddok",
@@ -253,20 +225,6 @@
       "영상URL": "https://instagram.com/p/Dd-cWDPzdth/"
     },
     {
-      "Instagram ID": "wiz_home_",
-      "조회수": 898392,
-      "조회수_한국어": "89만",
-      "날짜": "2026-09-30",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd6R_1jT4z7.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd6R_1jT4z7/"
-    },
-    {
       "Instagram ID": "gyong_motd",
       "조회수": 897154,
       "조회수_한국어": "89만",
@@ -279,9 +237,51 @@
         }
       ],
       "영상URL": "https://instagram.com/p/DeRh1jGqmHo/"
+    },
+    {
+      "Instagram ID": "bbangneul_bbangseok",
+      "조회수": 864049,
+      "조회수_한국어": "86만",
+      "날짜": "2026-10-05",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DeGJ0CbT2ch.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeGJ0CbT2ch/"
+    },
+    {
+      "Instagram ID": "kaljabi_mom",
+      "조회수": 850919,
+      "조회수_한국어": "85만",
+      "날짜": "2026-10-09",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DeSWwf_zXsf.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeSWwf_zXsf/"
+    },
+    {
+      "Instagram ID": "hyeo_ssam",
+      "조회수": 823407,
+      "조회수_한국어": "82만",
+      "날짜": "2026-10-03",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "/assets/thumbnails/DeBox7UynzJ.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeBox7UynzJ/"
     }
   ],
-  "lastUpdated": "2026-10-14T02:54:07.865Z",
-  "weekStart": "2026-09-30",
-  "generatedAt": "2026-10-14T02:54:07.865Z"
+  "lastUpdated": "2026-10-15T02:33:04.520Z",
+  "weekStart": "2026-10-01",
+  "generatedAt": "2026-10-15T02:33:04.520Z"
 }
