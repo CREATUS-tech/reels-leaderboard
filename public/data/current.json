@@ -15,20 +15,6 @@
       "영상URL": "https://instagram.com/p/DeHOcJCTzaQ/"
     },
     {
-      "Instagram ID": "song_rina",
-      "조회수": 2830715,
-      "조회수_한국어": "283만",
-      "날짜": "2026-10-01",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd8r--EzdVA.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd8r--EzdVA/"
-    },
-    {
       "Instagram ID": "ming_zzing__",
       "조회수": 2576559,
       "조회수_한국어": "257만",
@@ -155,20 +141,6 @@
       "영상URL": "https://instagram.com/p/DeEQ1BUBDpc/"
     },
     {
-      "Instagram ID": "omilljomill_",
-      "조회수": 1076459,
-      "조회수_한국어": "107만",
-      "날짜": "2026-10-01",
-      "카테고리": "",
-      "캡션": "",
-      "썸네일": [
-        {
-          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_Dd8ponWv8jD.jpg"
-        }
-      ],
-      "영상URL": "https://instagram.com/p/Dd8ponWv8jD/"
-    },
-    {
       "Instagram ID": "heidelflower_haeun",
       "조회수": 1041973,
       "조회수_한국어": "104만",
@@ -279,9 +251,37 @@
         }
       ],
       "영상URL": "https://instagram.com/p/DeBox7UynzJ/"
+    },
+    {
+      "Instagram ID": "doshim_flow",
+      "조회수": 690562,
+      "조회수_한국어": "69만",
+      "날짜": "2026-10-04",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "/assets/thumbnails/DeD-neBIzOJ.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeD-neBIzOJ/"
+    },
+    {
+      "Instagram ID": "choigo_duck",
+      "조회수": 681684,
+      "조회수_한국어": "68만",
+      "날짜": "2026-10-05",
+      "카테고리": "",
+      "캡션": "",
+      "썸네일": [
+        {
+          "url": "https://zhienvfubkxmfhalcxox.supabase.co/storage/v1/object/public/student-proofs/wt_DeHVcKuSq8T.jpg"
+        }
+      ],
+      "영상URL": "https://instagram.com/p/DeHVcKuSq8T/"
     }
   ],
-  "lastUpdated": "2026-10-15T02:33:04.520Z",
-  "weekStart": "2026-10-01",
-  "generatedAt": "2026-10-15T02:33:04.520Z"
+  "lastUpdated": "2026-10-16T02:28:11.314Z",
+  "weekStart": "2026-10-02",
+  "generatedAt": "2026-10-16T02:28:11.314Z"
 }
